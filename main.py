@@ -1,4 +1,3 @@
-
 def main(expression:str):
     values = expression.split()
 
